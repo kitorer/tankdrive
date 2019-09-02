@@ -18,7 +18,7 @@ void on_center_button() {
  */
 void initialize() {
 	pros::lcd::initialize();
-	pros::lcd::set_text(1, "YOU JUST LOST THE GAME😉");
+	pros::lcd::set_text(1, "you just lost :)");
 	pros::lcd::set_text(2, "The FitnessGram™ Pacer Test is a multis-");
 	pros::lcd::set_text(3, "-tage aerobic capacity test that progre-");
 	pros::lcd::set_text(4, "-ssively gets more difficult as it cont-");
